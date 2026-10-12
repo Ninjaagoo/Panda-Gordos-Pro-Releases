@@ -5,11 +5,11 @@
 
   **Explore, planeje e organize sua experiência no Minecraft em um único aplicativo.**
 
-  [![Versão](https://img.shields.io/badge/versão-1.4.3-111111?style=for-the-badge)](https://github.com/AlejandroPSilva/Panda-Gordos-Pro-Releases/releases/latest)
-  [![Plataforma](https://img.shields.io/badge/plataforma-Windows-16A34A?style=for-the-badge&logo=windows11&logoColor=white)](https://github.com/AlejandroPSilva/Panda-Gordos-Pro-Releases/releases/latest)
+  [![Versão](https://img.shields.io/badge/versão-1.4.3-111111?style=for-the-badge)](https://github.com/Ninjaagoo/Panda-Gordos-Pro-Releases/releases/latest)
+  [![Plataforma](https://img.shields.io/badge/plataforma-Windows-16A34A?style=for-the-badge&logo=windows11&logoColor=white)](https://github.com/Ninjaagoo/Panda-Gordos-Pro-Releases/releases/latest)
   [![Minecraft](https://img.shields.io/badge/Minecraft-Java%20%26%20Bedrock-111111?style=for-the-badge)](#recursos)
 
-  [Baixar a versão mais recente](https://github.com/AlejandroPSilva/Panda-Gordos-Pro-Releases/releases/latest) · [Reportar um problema](https://github.com/AlejandroPSilva/Panda-Gordos-Pro-Releases/issues/new)
+  [Baixar a versão mais recente](https://github.com/Ninjaagoo/Panda-Gordos-Pro-Releases/releases/latest) · [Reportar um problema](https://github.com/Ninjaagoo/Panda-Gordos-Pro-Releases/issues/new)
 </div>
 
 ---
@@ -213,7 +213,7 @@ Nenhum software desktop é imune a alterações locais ou engenharia reversa. N�
 
 ### Versão pronta para uso
 
-1. Acesse a [página de releases](https://github.com/AlejandroPSilva/Panda-Gordos-Pro-Releases/releases/latest).
+1. Acesse a [página de releases](https://github.com/Ninjaagoo/Panda-Gordos-Pro-Releases/releases/latest).
 2. Baixe o instalador **MSI** da versão mais recente.
 3. Conclua a instalação e abra o Pandas Gordos PRO.
 
@@ -302,12 +302,12 @@ O Pandas Gordos PRO usa uma arquitetura desktop híbrida. A interface React é e
 <table>
   <tr>
     <td width="116" align="center">
-      <img src="./assets/alejandro-psilva-profile.jpg" width="90" alt="Foto de AlejandroPSilva" />
+      <img src="./assets/Ninjaagoo.jpg" width="90" alt="Foto de Ninjaagoo" />
     </td>
     <td>
-      <strong>AlejandroPSilva</strong><br />
+      <strong>NinjaagooPSilva</strong><br />
       Criador e desenvolvedor do Pandas Gordos PRO.<br />
-      <a href="https://github.com/AlejandroPSilva">github.com/AlejandroPSilva</a>
+      <a href="https://github.com/Ninjaagoo">github.com/Ninjaagoo</a>
     </td>
   </tr>
 </table>
