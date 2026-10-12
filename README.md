@@ -302,10 +302,10 @@ O Pandas Gordos PRO usa uma arquitetura desktop híbrida. A interface React é e
 <table>
   <tr>
     <td width="116" align="center">
-      <img src="./assets/Alejandropsilva.jpg" width="90" alt="Foto de Ninjaagoo" />
+      <img src="./assets/alejandro-psilva-profile.jpg" width="90" alt="Foto de Ninjaagoo" />
     </td>
     <td>
-      <strong>NinjaagooPSilva</strong><br />
+      <strong>Ninjaagoo</strong><br />
       Criador e desenvolvedor do Pandas Gordos PRO.<br />
       <a href="https://github.com/Ninjaagoo">github.com/Ninjaagoo</a>
     </td>
